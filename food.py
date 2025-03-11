@@ -14,6 +14,7 @@ class Food(Turtle):
 
 
     def refresh(self):
+        # Generate random x and y coordinates for the food within the game boundaries
         random_x = randint(-280, 280)
         random_y = randint(-280, 240)
         self.goto(random_x, random_y)
