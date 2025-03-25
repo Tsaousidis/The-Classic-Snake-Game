@@ -57,6 +57,11 @@ Enjoy playing the game! 🎮
 
 ---
 
+## 🎥 Demo
+![Snake Game](demo.gif)
+
+---
+
 ## 🛠️ Features & Updates
 - **Boundary Visualization**: Added visible boundary lines so you can clearly see the game area.
 - **Bug Fixes**: Fixed issues where rapid key presses could cause unexpected behavior in the snake's movement.
